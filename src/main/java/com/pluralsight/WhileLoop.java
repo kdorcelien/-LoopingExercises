@@ -7,5 +7,10 @@ public class WhileLoop {
             System.out.println("I love Java");
             i+=1;
         }
+        do {
+            System.out.println("I love Java");
+            i += 1;
+
+        } while (i<5);
     }
 }
